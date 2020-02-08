@@ -1,0 +1,984 @@
+{
+    "accounts": [
+        {
+            "id": "5532164271822-f22393ed-22c",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "301cea6f45e5453d87bad49316d3d303"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "942525966868-5eae007c-401",
+            "label": "Wealth Private Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "20f47bfb624740769ccfd78035830423"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "9043177494179-cdcc788b-174",
+            "label": "myChequing",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "7e283bf34f6541ecaa9553a15468a029"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "2524119902112-d6dcc3e0-079",
+            "label": "Unlimited Transact Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "4b549d7c273c4335a58f0762cf42d251"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "3962351133046-e6531d55-a0c",
+            "label": "Springboard Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "2871b64b1a164708bc31aae4c0fa667c"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4493339090308-289cebc0-dec",
+            "label": "R-Product Saving - Business",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "0325ce8d1ec841c4849dabf569939060"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "9043171164440-05dc4193-1ff",
+            "label": "myChequing",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "3d800a2f58c64e099d96e0586833d314"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5090619851098-4e663f7d-b2e",
+            "label": "Preferred Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "ee096d8bd20141a9bc5e540bc9c13dc8"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052095672593-cab520f5-150",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "b290086aed844a428109e90bbf3d016f"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "479519821612-2fe44e6a-807",
+            "label": "R-Product Saving - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "9758dca2e6df41168181f5a7a5d2259b"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "942549011196-6e474568-285",
+            "label": "Wealth Private Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "63130443df7e489291b9c9c4d7954f6d"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "3962397090831-e34b3726-0e9",
+            "label": "Springboard Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "4713195901bf4db59a651086d8299063"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5090653314707-b3c2817c-198",
+            "label": "Preferred Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "890439ad0d3b4e768c7e9c229a069848"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052016652670-2155c387-882",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "8faa21a40a554c818acda36c6f255bb9"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052068891926-27186521-de2",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "9233a59c6ab24e5cae47fbb52cf82909"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532123326005-6a01dfcf-fc3",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "e21bf072ec9240afba05917588c93ae6"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "3962382187930-1177d691-b30",
+            "label": "Springboard Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "a626a8e25b3f4752871000abc700fcc0"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532183235598-240e6994-dd6",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "bad1d13f790c47a9a4457a8c13a2087f"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "2524118357262-444e1c1f-a8a",
+            "label": "Unlimited Transact Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "3418e73cc9c44e859097453f939b8fe4"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "942557167025-3eebfe00-893",
+            "label": "Wealth Private Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "6413850728344684b1cda97cb75c3f43"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052011466999-8e676a42-ee7",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "d5a6623fbc314375816ac78fde294d41"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "9043158125023-7be4e354-2c6",
+            "label": "myChequing",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "0a62c9b33cf1487fb5b4ec719a433c2e"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "6755323579496-02fcadca-a95",
+            "label": "Preferred Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "3ac35ffc579a48de9c77a65e5404957c"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "942559958629-7f8af780-912",
+            "label": "Wealth Private Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "62df54be2ce1425a852ade9d6562d213"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "479545112637-65b2611a-16a",
+            "label": "R-Product Saving - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "724ccdb61a0f4445baf26fd26e57a34b"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532128909691-ae3399b6-788",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "d3c2da41c36b47f99575934b17ce0866"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "2524172903399-f5fc1f67-f97",
+            "label": "Unlimited Transact Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "064e4de1f1ac46f09313ffe6c42c74f3"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052090956898-ae661739-8d6",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "eacaf150730a4af9ae86825e1887aabe"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052065761013-e098fd84-50b",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "bd32995956ee41af9620b377dd5ebc08"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4493321435952-39195666-4c3",
+            "label": "R-Product Saving - Business",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "67d83f0270d94ca5a4a8a22bb982ede3"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "9043144941091-bf1f9b40-cee",
+            "label": "myChequing",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "8f0b69518c2441108f5f90531856e023"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "6755313089802-e2d99aa4-8eb",
+            "label": "Preferred Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "9b356acbae6844ff9d1102e8179afe38"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "942540350652-81158e58-953",
+            "label": "Wealth Private Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "66c7d3eaf82b4147b1ac4001b1a9807a"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "479592571457-94964e58-289",
+            "label": "R-Product Saving - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "75371bec0cd446fbb794809f5ece972d"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "942529728587-3242099d-5aa",
+            "label": "Wealth Private Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "cb1176f97f394a60b6e145925bb230f7"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4252846797821-6dec6780-c6a",
+            "label": "R-Product Chequing - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "f87c46b7d2214d5fab9d39f7a1a52ae3"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "9043116440249-86032253-680",
+            "label": "myChequing",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "46d76c092a6940eb8a0869ed46bfc58e"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "479551764456-5e8b7cad-599",
+            "label": "R-Product Saving - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "aa45c1f7bc764697b6b65757190eaf6b"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532190240904-b87d876c-07b",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "d15174fb457743abb1de2c28f1fc4fd8"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052004805327-2123d0b0-ba0",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "a2cd752ae812478cb2ab41be82e2e384"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "479541571273-6efc7a3c-530",
+            "label": "R-Product Saving - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "401e7d295a784fb2a1124be643d61fc8"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "2524193924839-45b024ed-9a7",
+            "label": "Unlimited Transact Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "dc628ce038da4809b01063371b4619a6"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "6755333918547-c0388e9e-772",
+            "label": "Preferred Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "89d821284c5b4253bde5fc37a3995a8f"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532118456017-7d481e36-ed6",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "828bd2228ea84c899ffc59e84a6de486"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532190048216-0c82301a-8d4",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "1c21d686716844c08d7291ec32a7619e"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532109687829-7962131f-f70",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "f71aab19da0a40638388d163401d3d3c"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "479540500341-0bb9ac45-ff6",
+            "label": "R-Product Saving - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "347fdce157d84e13978f37ba3480e4f7"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052025895434-6ce6c02a-64d",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "772a0e491900407d853c77414071fb03"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5090689594750-45d28f41-620",
+            "label": "Preferred Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "b71ea877c4fe45268f54a49897e8a456"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4493335283193-ccee853f-5cf",
+            "label": "R-Product Saving - Business",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "e4c83a7df5f74699a4c61b153538aad9"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052026988900-4221ded9-acd",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "e962a93be54d4138836462d622a3826f"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532169638439-07dd14a3-6d2",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "58fc0e790dd5490d8c1830870f31bc48"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "3962339398005-bd3d1444-720",
+            "label": "Springboard Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "2d2e5ba5d2ca4fe6852225f6c75ad4ea"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5090640043671-aeea10f0-d75",
+            "label": "Preferred Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "5009c04f4f264342b566a10251625036"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4493303784189-35f85009-8b2",
+            "label": "R-Product Saving - Business",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "0fc90db33d244ac982999833dc53c1b7"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5090690952535-d3582963-5a1",
+            "label": "Preferred Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "94b2b12e22aa4e5db280a09763c80088"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "942597818971-a88c4850-f04",
+            "label": "Wealth Private Chequing Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "4e7742a6e66a43ada3e5c6168943e609"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "3962389777643-9882b9a9-a7c",
+            "label": "Springboard Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "9ee75eed2b1b42dc906711a9015eca27"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4052029034692-6d5bfacc-9a3",
+            "label": "International Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "7d787586c0644573ad386bc1ca88f6a1"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5090620572706-5997548b-b03",
+            "label": "Preferred Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "db42767b4d364cfd9953610a469ca07c"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "3962379603916-c9325a44-901",
+            "label": "Springboard Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "80a3f15291d84771bec81300edbc532e"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4493313863214-8063f873-07b",
+            "label": "R-Product Saving - Business",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "b4709150c1b94c07a00006e777683bed"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "479509075209-d69cee16-ffd",
+            "label": "R-Product Saving - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "c756f8cb6bce497dadcb6759c8b95958"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "4252851126039-95406bb5-7fa",
+            "label": "R-Product Chequing - Retail",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "e58e1de80905412e9af4df282210faf2"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        },
+        {
+            "id": "5532144418747-1fd5f4f5-6dd",
+            "label": "Wealth Private Savings Account",
+            "bank_id": "644cf9d75a8eda4a1e9ab3ac37a7000",
+            "account_routings": [
+                {
+                    "scheme": "OBP",
+                    "address": "98de375bf9f042749951706e0485a2c9"
+                }
+            ],
+            "balance": {
+                "currency": "CAD",
+                "amount": "10000.00"
+            }
+        }
+    ],
+    "overall_balance": {
+        "currency": "CAD",
+        "amount": "650000.00"
+    },
+    "overall_balance_date": "2020-02-08T21:26:26Z"
+}

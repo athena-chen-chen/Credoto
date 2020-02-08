@@ -1,0 +1,2104 @@
+{
+    "transactions": [
+        {
+            "id": "942525966868-0883af73-4d48694",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": "Unknown",
+                    "URL": "Unknown",
+                    "image_URL": "Unknown",
+                    "open_corporates_URL": "Unknown",
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "INVESTMENTS",
+                "description": "Transfer Investment Debit",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "233554.80"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-15176.93"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d48693",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "INVESTMENTS",
+                "description": "Transfer Investment Debit",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "218230.63"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-15324.17"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d46056",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "TRANSFER",
+                "description": "Incoming Wire",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "248731.73"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "57390.32"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d46055",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "TRANSFER",
+                "description": "Incoming Wire",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "191341.41"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "58706.03"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44914",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Overdraft Interest",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132635.38"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-0.01"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44913",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Overdraft Interest",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132635.39"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-0.01"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44912",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "FEES_CHARGES",
+                "description": "Fee Close Account",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132656.37"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-20.03"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44911",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "FEES_CHARGES",
+                "description": "Fee Close Account",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132635.40"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-20.97"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44747",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Overdraft Interest",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132676.40"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-0.03"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44746",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Overdraft Interest",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132676.43"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-0.03"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44251",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Overdraft Interest",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132676.50"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-0.04"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44250",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Overdraft Interest",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132676.54"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-0.04"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44249",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Overdraft Interest",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132676.58"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-0.04"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d44248",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Overdraft Interest",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132676.46"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-0.04"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43712",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "Fees",
+                "description": "Fee Service",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132678.99"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-2.31"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43711",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "Fees",
+                "description": "Fee Service",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132676.62"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-2.37"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43642",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "TRANSFER",
+                "description": "Transfer Investment Debit",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132681.30"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-30520.63"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43629",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "Transfer from Savings",
+                "description": "Transfer",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "163201.93"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-31444.16"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43598",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "TR for Savings",
+                "description": "Transfer",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "194646.09"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "-25.58"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43358",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "RENTAL_INCOME",
+                "description": "Interac e-Transfer Received",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "194363.80"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "308.75"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43357",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "RENTAL_INCOME",
+                "description": "Interac e-Transfer Received",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "194671.67"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "307.87"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43295",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "RENTAL_INCOME",
+                "description": "Interac e-Transfer Received",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "194055.05"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "95.72"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43179",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "RENTAL_INCOME",
+                "description": "Interac e-Transfer Received",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "193959.33"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "943.08"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43173",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "RENTAL_INCOME",
+                "description": "Interac e-Transfer Received",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "193016.25"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "1116.36"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d43145",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "TRANSFER",
+                "description": "Incoming Wire",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "191899.89"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "59059.90"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d41478",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "TRANSFER",
+                "description": "Incoming Wire",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "132839.99"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "13402.48"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d41432",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "TRANSFER",
+                "description": "Incoming Wire",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "119437.51"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "25976.81"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d41036",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "POS Return",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "93460.70"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "351.62"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d41012",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "POS Return",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "93109.08"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "68.11"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        },
+        {
+            "id": "942525966868-0883af73-4d4932",
+            "this_account": {
+                "id": "942525966868-5eae007c-401",
+                "bank_routing": {
+                    "scheme": "LEAP",
+                    "address": "644cf9d75a8eda4a1e9ab3ac37a7000"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "holders": [
+                    {
+                        "name": "644cf9d75a8eda4a1e9ab3a",
+                        "is_alias": false
+                    }
+                ]
+            },
+            "other_account": {
+                "id": "01HB0EZY1z6XGDXks1I_QM_edMJAyOQmRW5Tzc5lARo",
+                "holder": {
+                    "name": "5fe9f024-8a3a-4d49-8339-d943dcf3e13b",
+                    "is_alias": false
+                },
+                "bank_routing": {
+                    "scheme": "644cf9d75a8eda4a1e9ab3ac37a7000",
+                    "address": "LEAP"
+                },
+                "account_routings": [
+                    {
+                        "scheme": "OBP",
+                        "address": "20f47bfb624740769ccfd78035830423"
+                    }
+                ],
+                "metadata": {
+                    "public_alias": "ALIAS_010F0E",
+                    "private_alias": null,
+                    "more_info": null,
+                    "URL": null,
+                    "image_URL": null,
+                    "open_corporates_URL": null,
+                    "corporate_location": null,
+                    "physical_location": null
+                }
+            },
+            "details": {
+                "type": "UNCATEGORIZED",
+                "description": "Interac e-Transfer Cancel",
+                "posted": "2020-02-08T18:12:41Z",
+                "completed": "2020-02-08T18:12:41Z",
+                "new_balance": {
+                    "currency": "CAD",
+                    "amount": "93040.97"
+                },
+                "value": {
+                    "currency": "CAD",
+                    "amount": "488.30"
+                }
+            },
+            "metadata": {
+                "narrative": null,
+                "comments": [],
+                "tags": [],
+                "images": [],
+                "where": null
+            }
+        }
+    ]
+}
